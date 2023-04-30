@@ -1,4 +1,4 @@
-## Calculator Program
+### Calculator Program
 import sys
 
 #for line in sys.stdin:      This gets input from the command line and outputs the int
